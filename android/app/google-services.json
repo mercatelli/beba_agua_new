@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960190353955",
+    "firebase_url": "https://bebaaguanew.firebaseio.com",
+    "project_id": "bebaaguanew",
+    "storage_bucket": "bebaaguanew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960190353955:android:58d68f7e9dcafe5a481796",
+        "android_client_info": {
+          "package_name": "com.example.beba_agua_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960190353955-pvon9l67r01au5rjsk2od928tb6lqig1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beba_agua_new",
+            "certificate_hash": "99e53eff2499bed4fc2f4405b21c096680e683d2"
+          }
+        },
+        {
+          "client_id": "960190353955-ibdp8ikukkdan2cfqriut3mags33drim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6KcIJdtMhYAObgvkCIHcpuH6LpnvlGh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960190353955-ibdp8ikukkdan2cfqriut3mags33drim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
